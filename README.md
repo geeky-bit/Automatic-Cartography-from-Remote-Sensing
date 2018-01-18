@@ -109,4 +109,3 @@ If you use this work for your projects, please take the time to cite our ACCV'16
 This work has been conducted at ONERA ([DTIM](http://www.onera.fr/en/dtim)) and IRISA ([OBELIX team](https://www-obelix.irisa.fr/)), with the support of the joint Total-ONERA research project NAOMI.
 
 The Vaihingen data set was provided by the German Society for Photogrammetry, Remote Sensing and Geoinformation (DGPF).
-# Automatic-Cartography-from-Remote-Sensing
