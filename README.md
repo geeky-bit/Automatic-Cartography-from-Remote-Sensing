@@ -2,7 +2,6 @@
 
 
 ![http://www.onera.fr/en/dtim](https://lut.im/hCESNeToVY/qrK3KIIi1gcF8ZJD)
-![https://www-obelix.irisa.fr/](https://lut.im/gaJPw4ny09/7YziLBwPR2o0kdKd)
 
 This repository contains code, network definitions and pre-trained models for working on remote sensing images using deep learning.
 
