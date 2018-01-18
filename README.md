@@ -6,6 +6,8 @@
 
 This repository contains code, network definitions and pre-trained models for working on remote sensing images using deep learning.
 
+This repo was adapted from https://github.com/nshaud/DeepNetsForEO
+
 We build on the [SegNet architecture](https://github.com/alexgkendall/SegNet-Tutorial) (Badrinarayanan et al., 2015) to provide a semantic labeling network able to perform dense prediction on remote sensing data.
 
 ## Motivation
@@ -100,13 +102,7 @@ If you use this work for your projects, please take the time to cite our ACCV'16
 	pages = {180--196}
 }
 ```
-## License
 
-Code (scripts and Jupyter notebooks) are released under the GPLv3 license for non-commercial and research purposes **only**. For commercial purposes, please contact the authors.
-
-![https://creativecommons.org/licenses/by-nc-sa/3.0/](https://i.creativecommons.org/l/by-nc-sa/3.0/nl/88x31.png) The network weights are released under Creative-Commons BY-NC-SA. For commercial purposes, please contact the authors.
-
-See `LICENSE.md` for more details.
 
 ## Acknowledgements
 
